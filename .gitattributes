@@ -1,1 +1,2 @@
 blankfile filter=lfs diff=lfs merge=lfs -text
+greeting.txt filter=lfs diff=lfs merge=lfs -text
